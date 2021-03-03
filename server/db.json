@@ -1,0 +1,56 @@
+{
+  "resto": [
+    {
+      "id": 1,
+      "name": "Masala Restaurant",
+      "address": "T.p-13, chhani jakat naka, vadodara",
+      "mobile": 9724507225,
+      "email": "masala@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "old Masala Restaurant",
+      "address": "New Alkapuri, vadodara",
+      "mobile": 9724887235,
+      "email": "oldmasala@gmail.com"
+    },
+    {
+      "name": "jagrama",
+      "address": "karelibaug, vadodara",
+      "email": "jagram@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "food Plaza",
+      "address": "alkapuri",
+      "email": "plaza@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "vadapav resto",
+      "address": "sama road",
+      "email": "vada@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Yo Frankie",
+      "address": "Nizampura",
+      "email": "yo@gmail.com",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "abhinav sharma",
+      "email": "abhinav@gmail.com",
+      "password": "abhinav",
+      "id": 1
+    },
+    {
+      "name": "new",
+      "email": "reg@gmail.com",
+      "password": "road",
+      "id": 2
+    }
+  ]
+}
